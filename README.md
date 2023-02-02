@@ -1,6 +1,6 @@
 Hi there, I'm Arzu👋 
 
-As a Junior Frontend Developer, I am dedicated to creating dynamic and user-friendly web experiences. With a background in Technical SEO, I bring a unique perspective to the software industry, combining my technical expertise with my passion for software development. 
+As a Frontend Developer, I am dedicated to creating dynamic and user-friendly web experiences. With a background in Technical SEO, I bring a unique perspective to the software industry, combining my technical expertise with my passion for software development. 
 
 I have hands-on experience with React and a solid understanding of HTML, CSS, and JavaScript. I am committed to continuous learning and growth, and I am always looking for new challenges to enhance my skills.
  
