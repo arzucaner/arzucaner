@@ -1,6 +1,6 @@
 Hi there, I'm Arzu👋 
 
- I am a Junior Frontend Developer who loves to solve problems and is passionate about developing great products that users will want to use. Some technologies I enjoy working with include HTML, CSS, JavaScript and ReactJS. I am an apprentice at <a href="https://lonca.works/">Lonca</a>, a software engineering school that follows the software craftmanship movement.
+As a Junior Frontend Developer, I am dedicated to creating dynamic and user-friendly web experiences. With a background in Technical SEO, I bring a unique perspective to the software industry, combining my technical expertise with my passion for software development. I have hands-on experience with React and a solid understanding of HTML, CSS, and JavaScript. I am committed to continuous learning and growth, and I am always looking for new challenges to enhance my skills.
  
  <br />
  <details>
