@@ -1,9 +1,10 @@
 Hi there, I'm Arzu👋 
 
-As a Frontend Developer, I am dedicated to creating dynamic and user-friendly web experiences. With a background in Technical SEO, I bring a unique perspective to the software industry, combining my technical expertise with my passion for software development. 
+I'm a Frontend Developer with a strong technical SEO background. I have experience in HTML, CSS, JavaScript, TypeScript, React.js, and Vue.js. I also have a solid grasp of Docker for Cloud Tech, enabling me to enhance productivity through the development process by leveraging Agile and Scrum methodologies. 
 
-I have hands-on experience with React and a solid understanding of HTML, CSS, and JavaScript. I am committed to continuous learning and growth, and I am always looking for new challenges to enhance my skills.
- 
+My backend technical skills include Node.js, and I'm proficient in testing with Jest. I'm also well-versed in database technologies, such as MongoDB.
+
+
  <br />
  <details>
  <summary>:bulb: GitHub Stats</summary>
