@@ -1,16 +1,9 @@
 Hello there! 👋 I'm Arzu, a passionate Software Developer with a strong technical SEO background.
 
-- Proficient in:
-  - HTML, CSS, JavaScript, TypeScript
-  - React.js and Vue.js
-
-- Well-versed in Agile and Scrum methodologies.
-
-- Backend skills include:
-  - Node.js
-  - Testing with Jest 🃏
-
-- Experienced with database technologies such as MongoDB 🍃.
+**Tech Stack:**
+- Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Vue.js
+- Backend: Node.js, Testing with Jest 🃏
+- Database: MongoDB 🍃
 
 I'm passionate about building robust and scalable applications. Let's connect and create something amazing together! 🚀
 
@@ -25,9 +18,4 @@ I'm passionate about building robust and scalable applications. Let's connect an
  <details>
  <summary>:bulb: Most Used Language</summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzucaner&layout=compact">
- </details>         
- 
- 
- 
- 
-        
+ </details>                
