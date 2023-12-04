@@ -1,9 +1,21 @@
-Hi there, I'm Arzu👋 
+Hello there! 👋 I'm Arzu, a passionate Software Developer with a strong technical SEO background.
 
-I'm a Frontend Developer with a strong technical SEO background. I have experience in HTML, CSS, JavaScript, TypeScript, React.js, and Vue.js. I also have a solid grasp of Docker for Cloud Tech, enabling me to enhance productivity through the development process by leveraging Agile and Scrum methodologies. 
+- Proficient in:
+  - HTML, CSS, JavaScript, TypeScript
+  - React.js and Vue.js
+  - Docker for Cloud Tech 🐳
 
-My backend technical skills include Node.js, and I'm proficient in testing with Jest. I'm also well-versed in database technologies, such as MongoDB.
+- Well-versed in Agile and Scrum methodologies.
 
+- Backend skills include:
+  - Node.js
+  - Testing with Jest 🃏
+
+- Experienced with database technologies such as MongoDB 🍃.
+
+I'm passionate about building robust and scalable applications. Let's connect and create something amazing together! 🚀
+
+[LinkedIn](https://www.linkedin.com/in/arzucaner/) | [Twitter](https://twitter.com/arzuguneycaner) 
 
  <br />
  <details>
