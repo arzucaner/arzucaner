@@ -3,7 +3,6 @@ Hello there! 👋 I'm Arzu, a passionate Software Developer with a strong techni
 - Proficient in:
   - HTML, CSS, JavaScript, TypeScript
   - React.js and Vue.js
-  - Docker for Cloud Tech 🐳
 
 - Well-versed in Agile and Scrum methodologies.
 
