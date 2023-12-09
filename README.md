@@ -5,7 +5,7 @@ Hello there! 👋 I'm Arzu, a passionate Software Developer with a strong techni
 - Backend: Node.js, Testing with Jest 🃏
 - Database: MongoDB 🍃
 
-I'm passionate about building robust and scalable applications. Let's connect and create something amazing together! 🚀
+I'm passionate about building robust and scalable applications. Let's connect and create an amazing project together! 🚀
 
 [LinkedIn](https://www.linkedin.com/in/arzucaner/) | [Twitter](https://twitter.com/arzuguneycaner) | [YouTube](https://www.youtube.com/channel/UCsK0v6RouRYb5I1Ny8flrOg) | [Medium](https://arzuguneycaner.medium.com/)
 
