@@ -1,9 +1,10 @@
 Hello there! 👋 I'm Arzu, a passionate Software Developer with a strong technical SEO background.
 
 **Tech Stack:**
-- Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Vue.js
+- Frontend: HTML, CSS, JavaScript, TypeScript, Vue.js, React.js⚛️
 - Backend: Node.js, Testing with Jest 🃏
-- Database: MongoDB 🍃
+- Database: MongoDB, MySQL🐬
+  
 
 I'm passionate about building robust and scalable applications. Let's connect and create an amazing project together! 🚀
 
