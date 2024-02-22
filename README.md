@@ -4,6 +4,7 @@ Hello there! 👋 I'm Arzu, a passionate Software Developer with a strong techni
 - Frontend: HTML, CSS, JavaScript, TypeScript, Vue.js, React.js⚛️
 - Backend: Node.js, Testing with Jest 🃏
 - Database: MongoDB, MySQL🐬
+- Containerization: Docker 🐳
   
 
 I'm passionate about building robust and scalable applications. Let's connect and create an amazing project together! 🚀
