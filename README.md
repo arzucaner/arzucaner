@@ -3,7 +3,7 @@ Hello there! 👋 I'm Arzu, a passionate Software Developer with a strong techni
 **Tech Stack:**
 - Frontend: HTML, CSS, JavaScript, TypeScript, React Native, React.js⚛️
 - Backend: Node.js, Python, Testing with Jest 🃏
-- Database: MongoDB, MySQL🐬
+- Database: MongoDB, Prisma, MySQL🐬
 
   
 
