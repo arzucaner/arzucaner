@@ -1,4 +1,4 @@
-Hello there! 👋 I'm Arzu, a passionate Full Stack Developer with a strong technical SEO background.
+Hello!👋 I'm Arzu, a Full Stack Developer with a passion for mobile technology, continuously exploring new ways to innovate and create impactful solutions.
 
 **Tech Stack:**
 - Frontend: HTML, CSS, JavaScript, TypeScript, React Native, React.js⚛
