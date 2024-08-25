@@ -1,6 +1,11 @@
 Hello!👋 I'm Arzu, a Full Stack Developer with a passion for mobile technology, continuously exploring new ways to innovate and create impactful solutions.
 
 **Tech Stack:**
+**Design:** Figma 🎨  
+**Frontend:** HTML 🌐, CSS 🎨, JavaScript ☕, TypeScript 🟦, React.js ⚛, React Native 📱  
+**Backend:** Node.js 🟢  
+**Database:** MongoDB 🍃, MySQL 🐬, Prisma 🛠️  
+**Testing:** Jest 🃏
 - Frontend: HTML, CSS, JavaScript, TypeScript, React Native, React.js⚛
 - Backend: Node.js, Testing with Jest 🃏
 - Database: MongoDB, Prisma, MySQL🐬
