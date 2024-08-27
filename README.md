@@ -10,7 +10,7 @@ Hello!👋 I'm Arzu, a Full Stack Developer with a passion for mobile technology
 
   
 
-I'm passionate about building robust and scalable applications. Let's connect and create an amazing project together! 🚀
+I'm passionate about building robust and scalable applications. I contribute to open-source projects and love collaborating with others to bring creative ideas to life. I value teamwork and continuous learning. Let's connect and create an amazing project together! 🚀
 
 [LinkedIn](https://www.linkedin.com/in/arzucaner/) | [X](https://x.com/arz_ugny) | [YouTube](https://www.youtube.com/channel/UCsK0v6RouRYb5I1Ny8flrOg) | [Medium](https://arzugny.medium.com/)
 
