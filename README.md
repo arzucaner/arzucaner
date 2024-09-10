@@ -1,4 +1,5 @@
-Hello!👋 I'm Arzu, a Full Stack Developer with a passion for mobile technology, continuously exploring new ways to innovate and create impactful solutions.
+Hello!👋 
+I'm Arzu, a Full Stack Developer with a passion for mobile technology, continuously exploring new ways to innovate and create impactful solutions.
 
 **Tech Stack:**
 
