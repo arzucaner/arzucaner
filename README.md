@@ -8,6 +8,7 @@ I'm Arzu, a Full Stack Developer with a passion for mobile technology, continuou
 - Backend: Node.js🟢
 - Database: MongoDB, MySQL, Prisma 🛠️  
 - Testing: Jest 🃏
+- Project Management: Trello, Jira 📋
 
   
 
