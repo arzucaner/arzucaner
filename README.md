@@ -11,6 +11,9 @@ I'm Arzu, a Full Stack Developer with a passion for both mobile and web technolo
 - Cloud Services: AWS ☁️
 - Project Management: Trello, Jira, CMS 📋
 
+**Product**
+
+- KnittMates 🧶 (Knitting App)
   
 
 I'm passionate about building robust and scalable applications. I contribute to open-source projects and love collaborating with others to bring creative ideas to life. I value teamwork and continuous learning. Let's connect and create an amazing project together! 🚀
