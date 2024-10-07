@@ -1,5 +1,5 @@
 Hello!👋 
-I'm Arzu, a Full Stack Developer with a passion for both mobile and web technologies, continuously exploring new ways to innovate and create impactful solutions.
+I'm Arzu, a Full Stack Developer passionate about mobile and web technologies, continuously exploring new ways to innovate and create impactful solutions.
 
 **Tech Stack:**
 
@@ -11,7 +11,7 @@ I'm Arzu, a Full Stack Developer with a passion for both mobile and web technolo
 - Cloud Services: AWS ☁️
 - Project Management: Trello, Jira, CMS 📋
 
-**Product**
+**Product:**
 
 - KnittMates 🧶 (Knitting App)
   
