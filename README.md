@@ -14,6 +14,7 @@ I'm Arzu, a Full Stack Developer passionate about mobile and web technologies, c
 **Product:**
 
 - KnittMates 🧶 (Knitting App)
+  You can download it for free on the Google Play Store!
   
 
 I'm passionate about building robust and scalable applications. I contribute to open-source projects and love collaborating with others to bring creative ideas to life. I value teamwork and continuous learning. Let's connect and create an amazing project together! 🚀
