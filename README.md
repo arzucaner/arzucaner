@@ -1,4 +1,4 @@
-Hello!👋 
+Hello!👋  
 I'm Arzu, a Full Stack Developer passionate about mobile and web technologies, continuously exploring new ways to innovate and create impactful solutions.
 
 **Tech Stack:**
@@ -16,19 +16,21 @@ I'm Arzu, a Full Stack Developer passionate about mobile and web technologies, c
 - KnittMates 🧶 (Knitting App)
   
   You can download it for free on the Google Play Store!
-  
 
 I'm passionate about building robust and scalable applications. I contribute to open-source projects and love collaborating with others to bring creative ideas to life. I value teamwork and continuous learning. Let's connect and create an amazing project together! 🚀
 
-[LinkedIn](https://www.linkedin.com/in/arzucaner/) | [X](https://x.com/arz_ugny) | [YouTube](https://www.youtube.com/channel/UCsK0v6RouRYb5I1Ny8flrOg) | [Medium](https://arzugny.medium.com/)
+**Let's Connect:**
 
- <br />
- <details>
- <summary>:bulb: GitHub Stats</summary>
- <img src="https://github-readme-stats.vercel.app/api?username=arzucaner&show_icons=true&theme=dracula">
- </details>
+[LinkedIn](https://www.linkedin.com/in/arzucaner/) 💼 | [X](https://x.com/arz_ugny) 🐦 | [YouTube](https://www.youtube.com/channel/UCsK0v6RouRYb5I1Ny8flrOg) 📺 | [Medium](https://arzugny.medium.com/) ✍️
+
+<br />
+
+<details>
+<summary>:bulb: GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=arzucaner&show_icons=true&theme=dracula">
+</details>
  
- <details>
- <summary>:bulb: Most Used Language</summary>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzucaner&layout=compact">
- </details>                
+<details>
+<summary>:bulb: Most Used Language</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzucaner&layout=compact">
+</details>
