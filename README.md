@@ -21,8 +21,12 @@ I'm passionate about building robust and scalable applications. I contribute to 
 
 **Let's Connect:**
 
-[LinkedIn](https://www.linkedin.com/in/arzucaner/) 💼 | [X](https://x.com/arz_ugny) 🐦 | [YouTube](https://www.youtube.com/channel/UCsK0v6RouRYb5I1Ny8flrOg) 📺 | [Medium](https://arzugny.medium.com/) ✍️
+- [LinkedIn](https://www.linkedin.com/in/arzucaner/) 💼  
+- [Twitter (now X)](https://x.com/arz_ugny) 🐦  
+- [YouTube](https://www.youtube.com/channel/UCsK0v6RouRYb5I1Ny8flrOg) 📺  
+- [Medium](https://arzugny.medium.com/) ✍️
 
+  
 <br />
 
 <details>
