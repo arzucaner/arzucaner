@@ -15,9 +15,6 @@ I'm Arzu, a Full Stack Developer specializing in web and mobile technologies. I 
 
 - **KnittMates** 🧶  
 A mobile app designed to help knitters plan, track, and estimate yarn needs for their knitting projects.   
-Plan, track, and estimate your yarn needs with ease while managing your knitting projects.  
-
-I'm passionate about building robust and scalable applications. I contribute to open-source projects and love collaborating with others to bring creative ideas to life. I value teamwork and continuous learning. Let's connect and create an amazing project together! 🚀
 
 **Let's Connect:**
 
