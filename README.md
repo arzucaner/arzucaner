@@ -24,14 +24,8 @@ A mobile app designed to help knitters plan, track, and estimate yarn needs for 
 - [Medium](https://arzugny.medium.com/) ✍️
 
   
-<br />
+💡 **GitHub Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arzucaner&show_icons=true&theme=dracula)
 
-<details>
-<summary>:bulb: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=arzucaner&show_icons=true&theme=dracula">
-</details>
- 
-<details>
-<summary>:bulb: Most Used Language</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzucaner&layout=compact">
-</details>
+💡 **Most Used Language:**  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arzucaner&layout=compact)
