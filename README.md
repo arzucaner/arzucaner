@@ -24,6 +24,19 @@ A mobile app designed to help knitters plan, track, and estimate yarn needs for 
 - [Medium](https://arzugny.medium.com/) ✍️
 
   
+### Featured Blog Posts ✍️
+I regularly write about web and mobile development, and my journey in software development. Here are a few of my featured articles:
+
+- [A Beginner’s Guide to React Native](https://engineering.teknasyon.com/a-beginners-guide-to-react-native-769ef818e1b0)  
+  *An introduction to React Native for beginners, covering the basics of building mobile apps with this popular framework.*
+
+- [Cracking Software Puzzles: Debugging Guide](https://arzugny.medium.com/cracking-software-puzzles-debugging-guide-87da909b1283)  
+  *A detailed guide on how to tackle software bugs and improve your debugging skills.*
+
+- [My Software Development Adventure: Behind the Scenes of 2023!](https://arzugny.medium.com/my-software-development-adventure-behind-the-scenes-of-2023-15e835fe92f1)  
+  *A personal reflection on my journey as a software developer in 2023, with insights into the challenges and successes along the way.*
+
+  
 <br />
 
 <details>
