@@ -34,8 +34,6 @@ I regularly write about web and mobile development, and my journey in software d
 - [Cracking Software Puzzles: Debugging Guide](https://arzugny.medium.com/cracking-software-puzzles-debugging-guide-87da909b1283)  
   *A detailed guide on how to tackle software bugs and improve your debugging skills.*
 
-- [My Software Development Adventure: Behind the Scenes of 2023!](https://arzugny.medium.com/my-software-development-adventure-behind-the-scenes-of-2023-15e835fe92f1)  
-  *A personal reflection on my journey as a software developer in 2023, with insights into the challenges and successes along the way.*
 
  ### Open Source Contributions 🌍
   - **[WomenCodingCommunity](https://github.com/Women-Coding-Community/WomenCodingCommunity.github.io)**  
