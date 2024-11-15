@@ -14,8 +14,6 @@ I'm Arzu, a Full Stack Developer specializing in web and mobile technologies. I 
 **Product:**
 
 - **KnittMates** 🧶  
-A mobile app designed to help knitters plan, track, and estimate yarn needs for their knitting projects.
-Available on Google Play Store
 
 **Let's Connect:**
 
