@@ -27,10 +27,8 @@ I'm Arzu, a Full Stack Developer specializing in web and mobile technologies. I 
 I regularly write about web and mobile development, and my journey in software development. Here are a few of my featured articles:
 
 - [A Beginner’s Guide to React Native](https://engineering.teknasyon.com/a-beginners-guide-to-react-native-769ef818e1b0)  
-  *An introduction to React Native for beginners, covering the basics of building mobile apps with this popular framework.*
 
 - [Cracking Software Puzzles: Debugging Guide](https://arzugny.medium.com/cracking-software-puzzles-debugging-guide-87da909b1283)  
-  *A detailed guide on how to tackle software bugs and improve your debugging skills.*
 
 
  ### Open Source Contributions 🌍
