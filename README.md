@@ -1,5 +1,6 @@
 Hello!👋  
 I'm Arzu, a Full Stack Developer specializing in web and mobile technologies. I love building innovative, user-centric solutions and constantly exploring new tools and technologies to improve my craft.
+Recently, I launched an **open-source project**, the [Accessibility Guide](https://github.com/arzucaner/web-accessibility-guide), to help developers create inclusive web experiences.
 
 **Tech Stack:**
  
@@ -19,7 +20,7 @@ I'm Arzu, a Full Stack Developer specializing in web and mobile technologies. I 
 
 - [LinkedIn](https://www.linkedin.com/in/arzucaner/)  
 - [Twitter (now X)](https://x.com/arz_ugny)   
-- [YouTube](https://www.youtube.com/channel/UCsK0v6RouRYb5I1Ny8flrOg)   
+- [YouTube](https://www.youtube.com/@Codearz)   
 - [Medium](https://arzugny.medium.com/) 
 
   
@@ -32,8 +33,18 @@ I regularly write about web and mobile development, and my journey in software d
 
 
  ### Open Source Contributions 🌍
-  - **[WomenCodingCommunity](https://github.com/Women-Coding-Community/WomenCodingCommunity.github.io)**  
+ #### 🛠️ **My Open Source Projects**
+- **[Accessibility Guide](https://github.com/arzucaner/web-accessibility-guide)**  
+  An open-source project aimed at raising awareness about building accessible and inclusive websites.  
+  - 🌐**Live Demo**: [Accessibility Guide](https://arzucaner.github.io/web-accessibility-guide/)  
+  - 💻**Features**: Screen readers, high contrast modes, keyboard navigation, form validation, and more.
+    
+-#### 🤝 **Contributions to Other Projects**
+- **[WomenCodingCommunity](https://github.com/WomenCodingCommunity)**  
+  Active contributor to the initiatives focused on empowering women in tech.
 
+  ### 🌟 Community Involvement
+In addition to building my skills as a developer, I mentor aspiring developers on **[Superpeer](https://superpeer.com/arzugny)**. This helps me refine my knowledge while contributing to the growth of others in the tech community.
   
 <br />
 
