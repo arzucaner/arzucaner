@@ -39,12 +39,9 @@ I regularly write about web and mobile development, and my journey in software d
   - 🌐**Live Demo**: [Accessibility Guide](https://arzucaner.github.io/web-accessibility-guide/)  
   - 💻**Features**: Screen readers, high contrast modes, keyboard navigation, form validation, and more.
     
--#### 🤝 **Contributions to Other Projects**
-- **[WomenCodingCommunity](https://github.com/WomenCodingCommunity)**  
-  Active contributor to the initiatives focused on empowering women in tech.
-
-  ### 🌟 Community Involvement
-In addition to building my skills as a developer, I mentor aspiring developers on **[Superpeer](https://superpeer.com/arzugny)**. This helps me refine my knowledge while contributing to the growth of others in the tech community.
+ **Mentorship on Superpeer**  
+  I help aspiring developers grow through 1-on-1 mentorship sessions.  
+  👉 [Learn More or Book a Session](https://superpeer.com/arzucaner)
   
 <br />
 
