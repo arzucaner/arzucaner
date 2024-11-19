@@ -4,13 +4,13 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 
 **Tech Stack:**
  
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, React Native 📱
-- **Backend**: Node.js, Express.js 🟢
-- **Database**: MongoDB, MySQL, Prisma 🛠️
-- **Design**: Figma 🎨
-- **Cloud Services**: AWS ☁️
-- **Testing**: Jest 🃏
-- **Project Management**: Trello, Jira, CMS 📋
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, React Native 
+- **Backend**: Node.js
+- **Database**: MongoDB, MySQL
+- **Design**: Figma 
+- **Cloud Services**: AWS 
+- **Testing**: Jest 
+- **Project Management**: Trello, Jira, CMS 
 
 **Product:**
 
