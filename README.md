@@ -12,11 +12,11 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 - **Testing**: Jest 
 - **Project Management**: Trello, Jira, CMS 
 
-**Product:**
+**🌟Product:**
 
 - **KnittMates** 🧶  
 
-**Let's Connect:**
+**🌐Let's Connect:**
 
 - [LinkedIn](https://www.linkedin.com/in/arzucaner/)  
 - [Twitter (now X)](https://x.com/arz_ugny)   
@@ -24,7 +24,7 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 - [Medium](https://arzugny.medium.com/) 
 
   
-### Featured Blog Posts ✍️
+##✍️Featured Blog Posts :
 I regularly write about web and mobile development, and my journey in software development. Here are a few of my featured articles:
 
 - [A Beginner’s Guide to React Native](https://engineering.teknasyon.com/a-beginners-guide-to-react-native-769ef818e1b0)  
