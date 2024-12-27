@@ -15,14 +15,15 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 **🌟Product:**
 
 - **KnittMates** 🧶
-- [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.innoaits.knitmate&pcampaignid=web_share)
+ [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.innoaits.knitmate&pcampaignid=web_share)
 
 **🌐Let's Connect:**
 
 - [LinkedIn](https://www.linkedin.com/in/arzucaner/)  
 - [Twitter (now X)](https://x.com/arz_ugny)   
 - [YouTube](https://www.youtube.com/@Codearz)   
-- [Medium](https://arzugny.medium.com/) 
+- [Medium](https://arzugny.medium.com/)
+- [Personal Website](https://arzucaner.github.io/codearz/)
 
   
 ##✍️Featured Blog Posts :
