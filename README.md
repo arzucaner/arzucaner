@@ -6,9 +6,8 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
  
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, React Native 
 - **Backend**: Node.js
-- **Database**: MongoDB, MySQL
+- **Database**: MongoDB
 - **Design**: Figma 
-- **Cloud Services**: AWS 
 - **Testing**: Jest 
 - **Project Management**: Trello, Jira, CMS 
 
