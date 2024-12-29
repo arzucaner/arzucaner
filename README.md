@@ -38,13 +38,9 @@ I regularly write about web and mobile development, and my journey in software d
 - **[Accessibility Guide](https://github.com/arzucaner/web-accessibility-guide)**  
   An open-source project aimed at raising awareness about building accessible and inclusive websites.  
   - 🌐**Live Demo**: [Accessibility Guide](https://arzucaner.github.io/web-accessibility-guide/)  
-  - 💻**Features**: Screen readers, high contrast modes, keyboard navigation, form validation, and more.
-    
- **Mentorship on Superpeer**  
-  I help aspiring developers grow through 1-on-1 mentorship sessions.  
-  👉 [Learn More or Book a Session](https://superpeer.com/arzucaner)
-  
-<br />
+  - 💻**Features**: Screen readers, high contrast modes, keyboard navigation, form validation, and more.   
+
+  <br />
 
 <details>
 <summary>:bulb: GitHub Stats</summary>
