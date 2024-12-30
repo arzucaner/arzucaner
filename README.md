@@ -14,7 +14,7 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 **🌟Product:**
 
 - **KnittMates** 🧶
- [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.innoaits.knitmate&pcampaignid=web_share)
+-  [📲 Free to Download on Google Play Store](https://play.google.com/store/apps/details?id=com.innoaits.knitmate&pcampaignid=web_share)
 
 **🌐Let's Connect:**
 
