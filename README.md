@@ -9,7 +9,7 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 - **Database**: MongoDB
 - **Design**: Figma 
 - **Testing**: Jest 
-- **Project Management**: Trello, Jira, CMS 
+- **Project Management**: Trello, Jira
 
 **🌟Product:**
 
