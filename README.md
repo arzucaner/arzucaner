@@ -8,7 +8,6 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 - **Backend**: Node.js
 - **Database**: MongoDB
 - **Design**: Figma 
-- **Testing**: Jest 
 - **Project Management**: Trello, Jira
 
 **🌟Product:**
