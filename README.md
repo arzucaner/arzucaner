@@ -28,6 +28,8 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 ##✍️Featured Blog Posts :
 I regularly write about web and mobile development, and my journey in software development. Here are a few of my featured articles:
 
+- [Optimizing React Native Performance](https://arzugny.medium.com/optimizing-react-native-performance-3d979d9f373b)  
+
 - [A Beginner’s Guide to React Native](https://engineering.teknasyon.com/a-beginners-guide-to-react-native-769ef818e1b0)  
 
 - [Cracking Software Puzzles: Debugging Guide](https://arzugny.medium.com/cracking-software-puzzles-debugging-guide-87da909b1283)  
