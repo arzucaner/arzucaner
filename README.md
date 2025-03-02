@@ -42,7 +42,7 @@ I regularly write about web and mobile development, and my journey in software d
   - 🌐**Live Demo**: [Accessibility Guide](https://arzucaner.github.io/web-accessibility-guide/)  
   - 💻**Features**: Screen readers, high contrast modes, keyboard navigation, form validation, and more.
  
-  ## 🌟 Mentorship
+  ##🌟Mentorship
   📅 **Book a session with me on [Topmate](https://topmate.io/arzu_guney/).**  
 
   <br />
