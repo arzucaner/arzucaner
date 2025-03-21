@@ -1,5 +1,5 @@
 Hello!👋  
-I'm Arzu, a Full Stack Developer specializing in web and mobile technologies. I love building innovative, user-centric solutions and constantly exploring new tools and technologies to improve my craft.
+I'm Arzu, a Full Stack Developer specializing in web and mobile technologies. I love building innovative, user-centric solutions and constantly exploring new tools and technologies to improve my craft — currently focusing on integrating AI and machine learning into web and mobile applications, turning ideas into real-world projects.
 Recently, I launched an **open-source project**, the [Accessibility Guide](https://github.com/arzucaner/web-accessibility-guide), to help developers create inclusive web experiences.
 
 **Tech Stack:**
