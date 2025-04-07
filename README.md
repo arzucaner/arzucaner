@@ -28,6 +28,7 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
   
 ##✍️Featured Blog Posts :
 I regularly write about web and mobile development, and my journey in software development. Here are a few of my featured articles:
+- [Why I Still Choose Expo for React Native in 2025](https://arzugny.medium.com/why-i-still-choose-expo-for-react-native-in-2025-45d8803e8b2f)  
 
 - [Optimizing React Native Performance](https://arzugny.medium.com/optimizing-react-native-performance-3d979d9f373b)  
 
