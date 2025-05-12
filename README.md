@@ -1,5 +1,5 @@
 Hello!👋  
-I'm Arzu, a Full Stack Developer specializing in web and mobile technologies. I love building innovative, user-centric solutions and constantly exploring new tools and technologies to improve my craft.
+I'm Arzu, a Full Stack Developer specialising in web and mobile technologies. I love building innovative, user-centric solutions and constantly exploring new tools and technologies to improve my craft.
 Currently focusing on integrating AI and machine learning into web and mobile applications, turning ideas into real-world projects.
 Recently, I launched an **open-source project**, the [Accessibility Guide](https://github.com/arzucaner/web-accessibility-guide), to help developers create inclusive web experiences.
 
@@ -26,8 +26,8 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 - [Personal Website](https://arzucaner.github.io/codearz/)
 
   
-##✍️Featured Blog Posts :
-I regularly write about web and mobile development, and my journey in software development. Here are a few of my featured articles:
+##✍️Featured My Blog Posts :
+
 - [Why I Still Choose Expo for React Native in 2025](https://arzugny.medium.com/why-i-still-choose-expo-for-react-native-in-2025-45d8803e8b2f)  
 
 - [Optimizing React Native Performance](https://arzugny.medium.com/optimizing-react-native-performance-3d979d9f373b)  
