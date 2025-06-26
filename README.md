@@ -38,7 +38,6 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 
 
  ### Open Source Contributions 🌍
- #### 🛠️ **My Open Source Projects**
 - **[Accessibility Guide](https://github.com/arzucaner/web-accessibility-guide)**  
   An open-source project aimed at raising awareness about building accessible and inclusive websites.  
   - 🌐**Live Demo**: [Accessibility Guide](https://arzucaner.github.io/web-accessibility-guide/)  
