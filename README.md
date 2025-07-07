@@ -1,7 +1,8 @@
 Hello!👋  
 I'm Arzu, a Full Stack Developer specialising in web and mobile technologies. I love building innovative, user-centric solutions and constantly exploring new tools and technologies to improve my craft.
 Currently focusing on integrating AI and machine learning into web and mobile applications, turning ideas into real-world projects.
-Recently, I launched an **open-source project**, the [Accessibility Guide](https://github.com/arzucaner/web-accessibility-guide), to help developers create inclusive web experiences.
+I launched an **open-source project**, the [Accessibility Guide](https://github.com/arzucaner/web-accessibility-guide), to help developers create inclusive web experiences.
+🔹 Most recently, I co-developed [MindGarden](https://github.com/smart-stacks), an AI-powered mental health support tool built during a hackathon. It aims to assist users in emotional crises through empathetic, conversational support.
 
 **Tech Stack:**
  
@@ -26,13 +27,9 @@ Recently, I launched an **open-source project**, the [Accessibility Guide](https
 - [Personal Website](https://arzucaner.github.io/codearz/)
 
   
-##✍️Featured My Blog Posts :
-
-- [Why I Still Choose Expo for React Native in 2025](https://arzugny.medium.com/why-i-still-choose-expo-for-react-native-in-2025-45d8803e8b2f)  
+**✍️Featured My Blog Posts :
 
 - [Optimizing React Native Performance](https://arzugny.medium.com/optimizing-react-native-performance-3d979d9f373b)  
-
-- [A Beginner’s Guide to React Native](https://engineering.teknasyon.com/a-beginners-guide-to-react-native-769ef818e1b0)  
 
 - [Cracking Software Puzzles: Debugging Guide](https://arzugny.medium.com/cracking-software-puzzles-debugging-guide-87da909b1283)  
 
