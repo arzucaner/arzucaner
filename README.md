@@ -31,7 +31,9 @@ I launched an **open-source project**, the [Accessibility Guide](https://github.
 
 - [Optimizing React Native Performance](https://arzugny.medium.com/optimizing-react-native-performance-3d979d9f373b)  
 
-- [Cracking Software Puzzles: Debugging Guide](https://arzugny.medium.com/cracking-software-puzzles-debugging-guide-87da909b1283)  
+- [Cracking Software Puzzles: Debugging Guide](https://arzugny.medium.com/cracking-software-puzzles-debugging-guide-87da909b1283)
+
+- [Why I Still Choose Expo for React Native in 2025](https://arzugny.medium.com/why-i-still-choose-expo-for-react-native-in-2025-45d8803e8b2f)
 
 
  ### Open Source Contributions 🌍
