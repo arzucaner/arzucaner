@@ -27,7 +27,7 @@ I launched an **open-source project**, the [Accessibility Guide](https://github.
 - [Personal Website](https://arzucaner.github.io/codearz/)
 
   
-**✍️Featured My Blog Posts :
+✍️Featured My Blog Posts
 
 - [Optimizing React Native Performance](https://arzugny.medium.com/optimizing-react-native-performance-3d979d9f373b)  
 
