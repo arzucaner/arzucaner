@@ -10,9 +10,9 @@ I launched an **open-source project**, the [Accessibility Guide](https://github.
 - **Backend**: Node.js
 - **Database**: MongoDB
 - **Design**: Figma 
-- **Project Management**: Jira, Confluence
+- **Tools**: Jira, Confluence, Cursor
 - **Methodologies**: Agile (Scrum)
-- **Tool**: Cursor
+  
 
 **🌟Product:**
 
